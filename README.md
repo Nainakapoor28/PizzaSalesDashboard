@@ -1,5 +1,5 @@
 # PizzaSalesDashboard
-This dashboard provides insights into pizza sales, showing revenue trends, top and bottom pizzas, peak ordering times, and category-wise performance.
+This dashboard provides insights into pizza sales data.
 
 Project Overview
 
