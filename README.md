@@ -7,11 +7,11 @@ The Pizza Sales Dashboard provides insights into pizza sales performance using r
 
 Dashboard Features
 
-Total Sales: Overall revenue generated from pizza sales.
-Peak & Lowest Hour: Identifies when most and least orders are placed.
-Peak Day: Shows the busiest day for pizza sales.
-Top 5 Pizzas: Most popular pizzas based on total sales.
-Bottom 5 Pizzas: Least popular pizzas with lowest sales.
-Monthly Sales Trend: Seasonal and monthly sales patterns.
-Peak Ordering Times: Customer ordering behavior by time of day.
-Pizza Category Sales Overview: Sales contribution from Classic, Supreme, Chicken, and Veggie categories.
+Sales by Location: Regional sales distribution across India,
+Land Area by Location: Agricultural land dedicated to dairy farming by state,
+Sales by Brand: Brand-wise contribution to total sales,
+Quantity Sold by Customer Location: Customer demand across regions,
+Shelf Life by Product: Average shelf life of dairy products like Milk, Cheese, Butter, Yogurt, and Ghee,
+Cow Population by Location: Correlation between livestock population and dairy output,
+Max & Min Shelf Life: Product-level comparison of shelf stability,
+Shelf Life by Storage Type: Storage methods (Ambient, Frozen, Refrigerated, etc.) and their impact on product shelf life.
